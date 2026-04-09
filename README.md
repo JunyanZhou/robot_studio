@@ -5,7 +5,7 @@ A bipedal robot project featuring **Rockie**, a compact walking robot built with
 ## Demos
 
 <div align="center">
-  <img src="script/rockie.gif" alt="Rockie Robot" width="400"/>
+  <img src="script/demo.gif" alt="Devil Robot" width="400"/>
   <img src="script/walker_.gif" alt="Walker Demo" width="400"/>
 </div>
 
